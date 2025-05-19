@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MinecraftServerBrowser/static/css/main.81019d2c.css",
+    "main.js": "/MinecraftServerBrowser/static/js/main.f2cc90e5.js",
+    "static/media/logo.svg": "/MinecraftServerBrowser/static/media/logo.cf1ad5ea55bdf7ea6e8c68b1ae6ee00b.svg",
+    "index.html": "/MinecraftServerBrowser/index.html",
+    "main.81019d2c.css.map": "/MinecraftServerBrowser/static/css/main.81019d2c.css.map",
+    "main.f2cc90e5.js.map": "/MinecraftServerBrowser/static/js/main.f2cc90e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81019d2c.css",
+    "static/js/main.f2cc90e5.js"
+  ]
+}
