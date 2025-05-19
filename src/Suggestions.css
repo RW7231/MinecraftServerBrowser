@@ -1,0 +1,15 @@
+.suggestionMain{
+    background-color: #8FCA5C;
+    border: #61371F 3px solid;
+    text-align: center;
+}
+
+.javaServers>p:hover, .bedrockServers>p:hover{
+    text-decoration: underline;
+}
+
+.javaServers>p, .bedrockServers>p{
+    text-wrap: nowrap;
+    overflow: hidden;
+    color: #000480;
+}

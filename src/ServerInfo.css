@@ -1,0 +1,24 @@
+.serverContent{
+    width: 80%;
+    background-color: #8FCA5C;
+    margin-top: 15px;
+    border: #61371F 3px solid;
+    text-align: center;
+}
+
+#extraInfo > div{
+    margin-top: 10px;
+}
+
+#extraInfo > div > strong{
+    color: #000480;
+}
+
+#extraInfo > div > strong:hover{
+    text-decoration: underline;
+}
+
+#extraInfo > div > p{
+    text-wrap: nowrap;
+    overflow: hidden;
+}
